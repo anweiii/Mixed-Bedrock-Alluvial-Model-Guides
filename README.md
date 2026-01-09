@@ -23,4 +23,6 @@ used for research, and are included as an example resource.
 __Contact__
 For questions or contributions, contact Annie: annt@uoregon.edu
 
+__License__
+Licensed by MIT License
 
