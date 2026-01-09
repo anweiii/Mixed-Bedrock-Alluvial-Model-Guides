@@ -1,5 +1,5 @@
-# Mixed Bedrock Alluvial LEM Tutorials
-Two notebook guides on how to run 1D and 2D tests on the shared stream power model (SSPM) and SPACE. 
+# Mixed Bedrock Alluvial LEM Guides
+Two jupyter notebook guides on how to run 1D and 2D tests on the shared stream power model (SSPM) and SPACE. 
 These are landscape evolution models that capture the effects of bedrock incision 
 and sediment transport. Based on model tests used for Thompson & Whipple (2026) (In preparation).
 
